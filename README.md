@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my self-development on the programation word
+- 🌱 I’m currently learning a looot of python
+- 👯 I’m looking to collaborate on anything, just to get some experience
+- 📫 How to reach me: just say hii
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: i'm Otaku and a Gamer, and also, i love cars 
+
+
 <!--
 **ruanken/ruanken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
